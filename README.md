@@ -1,7 +1,8 @@
 # Home Energy Management System 🌞🔋 ♨️🔥 💧 ⚡
 
 
-# Author: Sithumini K.G.P  IT21170584
+# Solar Energy Management System
+## Author: Sithumini K.G.P  IT21170584
 
 
 # Overview of the Project
