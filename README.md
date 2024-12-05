@@ -19,7 +19,7 @@
 
 # Architectural Diagram
 
-<img src ="diagram.jpg">
+   <img src ="diagram.jpg">
 
 # Dependencies
 
