@@ -2,7 +2,7 @@
 
 
 # Overview of the Project
-   ### Implement an efficient solar energy management system that monitors, manages, maintains, and optimizes energy usage while integrating predictive weather insights, enabling users to analyze power usage and generation for informed decision-making with user friendly interface
+   ### Home Energy Management is becoming a most common problem for both our economy and environment. By Poor practices of managing, saving, or reusing, created a great deal of waste and global warming. Our goal is to make a business solution to manage home energy
 
 
 # Member Details
