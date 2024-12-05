@@ -19,6 +19,8 @@
 
 # Architectural Diagram
 
+<img src ="diagram.jpg">
+
 # Dependencies
 
 # Project Management Tool
