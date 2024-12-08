@@ -4,6 +4,11 @@
 # Overview of the Project
    ### Home Energy Management is becoming a most common problem for both our economy and environment. By Poor practices of managing, saving, or reusing, created a great deal of waste and global warming. Our goal is to make a business solution to manage home energy
 
+# Sub Objectives
+### Gas & Fire
+### Water Management 
+### Electricity Management
+### Solar Management  
 
 # Member Details
 
@@ -18,3 +23,5 @@
 # Dependencies
 
 # Project Management Tool
+
+
