@@ -33,5 +33,6 @@
 # Dependencies
 
 # Project Management Tool
+<img src ="Gantt.png">
 
 
