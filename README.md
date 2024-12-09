@@ -21,8 +21,7 @@
 # Architectural Diagram
 
 # Dependencies
-
-##  Software Dependencies
+##  * Software Dependencies
   ### - Python
   ### - React
   ### - Node
