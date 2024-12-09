@@ -19,11 +19,7 @@
    ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Member 4 - IT21301490 - Mahanama K.T.D - [DamithaMahanama](https://github.com/DamithaMahanama) :octocat:
 
 # Tools & Technologies 
-  ### - Python
-  ### - React
-  ### - Node
-  ### - Mongo DB
-  ### - IOT
+  
 
   ### - Random Forest Learning
   ### - Mixed-Integer Linear Programming
@@ -31,6 +27,11 @@
 # Architectural Diagram
 
 # Dependencies
+  ### - Python
+  ### - React
+  ### - Node
+  ### - Mongo DB
+  ### - IOT
 
 # Project Management Tool
 <img src ="Gantt.png">
