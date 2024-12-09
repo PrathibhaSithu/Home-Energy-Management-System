@@ -18,12 +18,6 @@
    ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Member 3 - IT21173936 - Kodithuwakku K.G.K.M.J - [KaveendraKodithuwakku](https://github.com/kaveeeee) :octocat:
    ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Member 4 - IT21301490 - Mahanama K.T.D - [DamithaMahanama](https://github.com/DamithaMahanama) :octocat:
 
-# Tools & Technologies 
-  
-
-  ### - Random Forest Learning
-  ### - Mixed-Integer Linear Programming
-  
 # Architectural Diagram
 
 # Dependencies
