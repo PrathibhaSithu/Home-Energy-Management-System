@@ -30,7 +30,7 @@
 <img src ="SystemDiagram.jpg">
 
 # Flow Chart
-<img src ="SystemDiagram.jpg">
+<img src ="flowchart.png">
 
 # Project Management Tool
 <img src ="Gantt.png">
