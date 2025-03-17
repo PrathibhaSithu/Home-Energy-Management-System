@@ -26,6 +26,12 @@
   ### - Mongo DB
   ### - IOT
 
+# Architectural Diagram
+<img src ="SystemDiagram.jpg">
+
+# Flow Chart
+<img src ="SystemDiagram.jpg">
+
 # Project Management Tool
 <img src ="Gantt.png">
 
