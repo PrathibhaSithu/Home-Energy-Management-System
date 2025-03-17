@@ -6,9 +6,9 @@
 
 # Sub Objectives
 ### - Gas & Fire
-### - Water Management 
-### - Electricity Management
-### - Solar Management  
+### - Water Management
+### - Solar Management 
+### - Electricity Management  
 
 # Member Details
 
