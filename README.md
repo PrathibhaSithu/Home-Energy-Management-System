@@ -19,7 +19,7 @@
    ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Member 4 - IT21301490 - Mahanama K.T.D - [DamithaMahanama](https://github.com/DamithaMahanama) :octocat:
 
 # Architectural Diagram
-<img src ="SystemDiagram.png">
+<img src ="SystemDiagram.jpg">
 
 # Dependencies
 ##  * Software Dependencies
